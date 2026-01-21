@@ -6,7 +6,7 @@ import {
   AccordionItem,
   AccordionTrigger,
   Button,
-} from "@relume_io/relume-ui";
+} from "../../components/ui";
 import React from "react";
 import { RxPlus } from "react-icons/rx";
 

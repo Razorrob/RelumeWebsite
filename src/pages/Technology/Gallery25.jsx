@@ -6,7 +6,7 @@ import {
   CarouselItem,
   CarouselNext,
   CarouselPrevious,
-} from "@relume_io/relume-ui";
+} from "../../components/ui";
 import React, { useEffect, useState } from "react";
 
 const useCarousel = () => {

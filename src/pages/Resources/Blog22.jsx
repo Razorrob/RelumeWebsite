@@ -6,7 +6,7 @@ import {
   TabsContent,
   TabsList,
   TabsTrigger,
-} from "@relume_io/relume-ui";
+} from "../../components/ui";
 import React from "react";
 import { RxChevronRight } from "react-icons/rx";
 
